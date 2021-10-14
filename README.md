@@ -1,11 +1,12 @@
 ![](/Assets/hbd1.png)
 ### [**Coders way of wishing Happy Birthday!!**](https://github.com/Raviruler/HBD/tree/main/Codes) 
 <br>
-> People just say *“Happy Birthday!”* to each other to wish ```Happy Birthday``` with the same 14 predictable letters.
-> 
-> But as a ```coders```, we can wish in unique manner.
-> 
-> This projects consist codes in various programming language to wish __Happy Birthday__.
+
+<p>
+   People just say *“Happy Birthday!”* to each other to wish ```Happy Birthday``` with the same 14 predictable letters.<br>
+   But as a ```coders```, we can wish in unique manner.<br>
+   This projects consist codes in various programming language to wish __Happy Birthday__.
+</p>
 
 <br>
 
