@@ -1,4 +1,4 @@
-![](Assets/hbd.png)
+![](/Assets/hbd.png)
 ### [**Coders way of wishing Happy Birthday!!**](https://github.com/Raviruler/HBD/tree/main/Codes) 
 <br>
 > People just say *“Happy Birthday!”* to each other to wish ```Happy Birthday``` with the same 14 predictable letters. 
@@ -28,4 +28,4 @@ Run the above code [here](https://www.rapidtables.com/convert/number/binary-to-a
 * Do not make any changes to other files.
 
 <br>
-Made with :heart: by [Raviruler](https://github.com/Raviruler).
+Made with :heart: by  ![Raviruler](https://github.com/Raviruler) .
