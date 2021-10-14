@@ -33,4 +33,4 @@ Run the above code [here](https://www.rapidtables.com/convert/number/binary-to-a
 
 <br>
 Made with :heart: by 
-[Raviruler](https://github.com/Raviruler "github") .
+**[EFF](https://eff.org)**.
