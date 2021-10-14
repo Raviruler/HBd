@@ -32,4 +32,5 @@ Run the above code [here](https://www.rapidtables.com/convert/number/binary-to-a
 * Do not make any changes to other files.
 
 <br>
-Made with :heart: by [Raviruler](https://github.com/Raviruler "github") .
+Made with :heart: by 
+[Raviruler](https://github.com/Raviruler "github") .
