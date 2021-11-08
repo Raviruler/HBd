@@ -36,7 +36,6 @@ Run the above code [here](https://www.rapidtables.com/convert/number/binary-to-a
 ## HTML Pages
 
 * [HBd1](raviruler.github.io/hbd/hbd1.html)
-<br>
 * [HBd.2](raviruler.github.io/hbd/hbd2.html)
 
 Made with :heart: by [Raviruler](https://github.com/Raviruler "Github profile").
