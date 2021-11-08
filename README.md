@@ -23,7 +23,7 @@
 Run the above code [here](https://www.rapidtables.com/convert/number/binary-to-ascii.html).
 
 ## Contributing
-#### Do you have any creative idea of saying "[Happy Birthday]()".
+#### Do you have any creative idea of saying "__Happy Birthday__".
 
 * Fork [this](https://github.com/Raviruler/HBD) repository.
 * Add your code inside `Codes/` folder.
@@ -32,10 +32,9 @@ Run the above code [here](https://www.rapidtables.com/convert/number/binary-to-a
 * Do not make any changes to other files.
 
 <br>
-
 ## HTML Pages
 
-* [HBd1](raviruler.github.io/hbd/hbd1.html)
-* [HBd.2](raviruler.github.io/hbd/hbd2.html)
+* [HBd1](https://raviruler.github.io/HBd/HBd1.html)
+* [HBd2](https://raviruler.github.io/HBd/HBd2.html)
 
 Made with :heart: by [Raviruler](https://github.com/Raviruler "Github profile").
