@@ -1,6 +1,6 @@
 # HBD
 
-![](/Assets/hbd1.png)
+![HBD1.png](/Assets/hbd1.png)
 
 ## Coders way of wishing Happy Birthday!!
 
